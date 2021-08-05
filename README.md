@@ -2,8 +2,8 @@
 ====================
 
 # Introduction
-**개발중인 개인 프로젝트를 Django + gurnicon + nginx + docker 환경으로 구축 하였습니다.**
-
+**개발중인 개인 프로젝트를 Django + gurnicon + nginx + docker 환경으로 구축 하였습니다.**   
+**[사이트바로가기](http://ec2-3-36-97-51.ap-northeast-2.compute.amazonaws.com/swagger/)**
 # Requirements
 - docker 20.10.7
 - python 3.6.7  
