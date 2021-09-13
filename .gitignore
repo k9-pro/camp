@@ -128,5 +128,5 @@ dmypy.json
 .pyre/
 nginx/ssl
 project/static/*
-/project/
-/front/
+project/
+front/
